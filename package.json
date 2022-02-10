@@ -1,0 +1,24 @@
+{
+    "name": "vk-dashboard",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "parcel ./src/index.html"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Oleg-Kolosov/vk-dashboard.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Oleg-Kolosov/vk-dashboard/issues"
+    },
+    "homepage": "https://github.com/Oleg-Kolosov/vk-dashboard#readme",
+    "devDependencies": {
+        "parcel-bundler": "^1.12.5"
+    }
+}
